@@ -1,0 +1,2 @@
+# GraphGen
+Creating Kron graphs
